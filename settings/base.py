@@ -30,7 +30,7 @@ CACHES["default"]["KEY_PREFIX"] = "market.anthill"
 # APPLICATION_CLASS = 'market.apps.AnthillApplication'
 APPLICATION_NAME = 'market'
 APPLICATION_VERBOSE_NAME = _('Market')
-APPLICATION_DESCRIPTION = _('Service description')
+APPLICATION_DESCRIPTION = _('Provide user-oriented marketplace')
 APPLICATION_ICON_CLASS = 'icon-basket'
 APPLICATION_COLOR = 'primary'
 
