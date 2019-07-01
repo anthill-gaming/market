@@ -1,3 +1,4 @@
 Market
 =============================================
-Provide user-oriented marketplace
+Provide user-oriented marketplace.
+Currently under heavy development.
